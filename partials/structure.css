@@ -1,0 +1,45 @@
+/* line 1, ../sass/partials/structure.scss */
+h1, h2, h3, h4, h5 {
+  font-family: Gill Sans;
+}
+
+/* line 5, ../sass/partials/structure.scss */
+h1 {
+  font-size: 40px;
+}
+
+/* line 9, ../sass/partials/structure.scss */
+h2 {
+  font-size: 30px;
+}
+
+/* line 13, ../sass/partials/structure.scss */
+h3 {
+  font-size: 20px;
+}
+
+/* line 17, ../sass/partials/structure.scss */
+hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #cacaca;
+  padding: 0;
+}
+
+/* line 25, ../sass/partials/structure.scss */
+section {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+/* line 30, ../sass/partials/structure.scss */
+.edm-shadow {
+  text-shadow: 0px 0px 5px #000;
+}
+
+/* line 34, ../sass/partials/structure.scss */
+.wrapper {
+  margin: 0px;
+  width: 100%;
+}

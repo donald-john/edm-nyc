@@ -1,0 +1,67 @@
+.mission-section {
+	.mission-container {
+		font-weight: lighter;
+		height: 150px;
+
+		.mission {
+			width: 600px;
+			left: 50%;
+			margin-left: -300px;
+			position: absolute;
+			padding: 35px;
+
+			h1,h2,h3 {
+				text-align: center;
+			}
+		}
+	}
+}
+
+.engage-section {
+
+	// height: 244px;
+
+	ul {
+
+		li {
+			height: 220px;
+			
+			a {
+				height: 100%;
+				display: block;
+				font-weight: lighter;
+				padding: 20px;
+				text-decoration: none;
+				 
+				
+				h2 {
+					text-align: center;
+					padding: 5px;
+				}
+
+				img {
+					width: 130px;
+					position: absolute;
+					left: 50%;
+					margin-left: -65px;
+				}
+			}
+			
+		}
+
+	}
+
+
+	.help {
+		
+	}
+
+	.volunteer {
+		border-left: 1px #cacaca solid;
+		border-right: 1px #cacaca solid;
+	}
+
+	.give {
+		
+	}
+}

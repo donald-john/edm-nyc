@@ -1,0 +1,47 @@
+/* line 2, ../sass/partials/index.scss */
+.mission-section .mission-container {
+  font-weight: lighter;
+  height: 150px;
+}
+/* line 6, ../sass/partials/index.scss */
+.mission-section .mission-container .mission {
+  width: 600px;
+  left: 50%;
+  margin-left: -300px;
+  position: absolute;
+  padding: 35px;
+}
+/* line 13, ../sass/partials/index.scss */
+.mission-section .mission-container .mission h1, .mission-section .mission-container .mission h2, .mission-section .mission-container .mission h3 {
+  text-align: center;
+}
+
+/* line 26, ../sass/partials/index.scss */
+.engage-section ul li {
+  height: 220px;
+}
+/* line 29, ../sass/partials/index.scss */
+.engage-section ul li a {
+  height: 100%;
+  display: block;
+  font-weight: lighter;
+  padding: 20px;
+  text-decoration: none;
+}
+/* line 37, ../sass/partials/index.scss */
+.engage-section ul li a h2 {
+  text-align: center;
+  padding: 5px;
+}
+/* line 42, ../sass/partials/index.scss */
+.engage-section ul li a img {
+  width: 130px;
+  position: absolute;
+  left: 50%;
+  margin-left: -65px;
+}
+/* line 59, ../sass/partials/index.scss */
+.engage-section .volunteer {
+  border-left: 1px #cacaca solid;
+  border-right: 1px #cacaca solid;
+}
